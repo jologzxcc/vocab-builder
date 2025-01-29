@@ -1,0 +1,1357 @@
+{
+    "vocabulary": [
+      {
+        "word": "abase",
+        "definition": "to humiliate, degrade"
+      },
+      {
+        "word": "abate",
+        "definition": "to reduce, lessen"
+      },
+      {
+        "word": "abduct",
+        "definition": "to kidnap, take by force"
+      },
+      {
+        "word": "aberration",
+        "definition": "something that differs from the norm"
+      },
+      {
+        "word": "abet",
+        "definition": "to aid, help, encourage"
+      },
+      {
+        "word": "abhor",
+        "definition": "to hate, detest"
+      },
+      {
+        "word": "abide",
+        "definition": "to put up with; to remain"
+      },
+      {
+        "word": "abject",
+        "definition": "wretched, pitiful"
+      },
+      {
+        "word": "abjure",
+        "definition": "to reject, renounce"
+      },
+      {
+        "word": "abnegation",
+        "definition": "denial of comfort to oneself"
+      },
+      {
+        "word": "abort",
+        "definition": "to give up on a half-finished project or effort"
+      },
+      {
+        "word": "abridge",
+        "definition": "to cut down, shorten"
+      },
+      {
+        "word": "abrogate",
+        "definition": "to abolish, usually by authority"
+      },
+      {
+        "word": "abscond",
+        "definition": "to sneak away and hide"
+      },
+      {
+        "word": "absolute",
+        "definition": "freedom from blame, guilt, sin"
+      },
+      {
+        "word": "abstain",
+        "definition": "to freely choose not to commit an action"
+      },
+      {
+        "word": "abstruse",
+        "definition": "hard to comprehend"
+      },
+      {
+        "word": "accede",
+        "definition": "to agree"
+      },
+      {
+        "word": "accentuate",
+        "definition": "to stress, highlight"
+      },
+      {
+        "word": "accessible",
+        "definition": "obtainable, reachable"
+      },
+      {
+        "word": "acclaim",
+        "definition": "high praise"
+      },
+      {
+        "word": "accolade",
+        "definition": "high praise, special distinction"
+      },
+      {
+        "word": "accommodating",
+        "definition": "helpful, obliging, polite"
+      },
+      {
+        "word": "accord",
+        "definition": "an agreement"
+      },
+      {
+        "word": "accost",
+        "definition": "to confront verbally"
+      },
+      {
+        "word": "accretion",
+        "definition": "slow growth in size or amount"
+      },
+      {
+        "word": "acerbic",
+        "definition": "biting, bitter in tone or taste"
+      },
+      {
+        "word": "acquiesce",
+        "definition": "to agree without protesting"
+      },
+      {
+        "word": "acrimony",
+        "definition": "bitterness, discord"
+      },
+      {
+        "word": "acumen",
+        "definition": "keen insight"
+      },
+      {
+        "word": "acute",
+        "definition": "sharp, severe; having keen insight"
+      },
+      {
+        "word": "adamant",
+        "definition": "impervious, immovable, unyielding"
+      },
+      {
+        "word": "adept",
+        "definition": "extremely skilled"
+      },
+      {
+        "word": "adhere",
+        "definition": "to stick to something; to follow devoutly"
+      },
+      {
+        "word": "admonish",
+        "definition": "to caution, criticize, reprove"
+      },
+      {
+        "word": "adorn",
+        "definition": "to decorate"
+      },
+      {
+        "word": "adroit",
+        "definition": "skillful, dexterous"
+      },
+      {
+        "word": "adulation",
+        "definition": "extreme praise"
+      },
+      {
+        "word": "adumbrate",
+        "definition": "to sketch out in a vague way"
+      },
+      {
+        "word": "adverse",
+        "definition": "antagonistic, unfavorable, dangerous"
+      },
+      {
+        "word": "advocate",
+        "definition": "to argue in favor of something; a person who argues in favor of something"
+      },
+      {
+        "word": "aerial",
+        "definition": "somehow related to the air"
+      },
+      {
+        "word": "aesthetic",
+        "definition": "artistic, related to the appreciation of beauty"
+      },
+      {
+        "word": "affable",
+        "definition": "friendly, amiable"
+      },
+      {
+        "word": "affinity",
+        "definition": "a spontaneous liking for something or someone"
+      },
+      {
+        "word": "affluent",
+        "definition": "rich, wealthy"
+      },
+      {
+        "word": "affront",
+        "definition": "an insult"
+      },
+      {
+        "word": "aggrandize",
+        "definition": "to increase or make greater"
+      },
+      {
+        "word": "aggregate",
+        "definition": "a whole or total; to gather into a mass"
+      },
+      {
+        "word": "aggrieved",
+        "definition": "distressed, wronged, injured"
+      },
+      {
+        "word": "agile",
+        "definition": "quick, nimble"
+      },
+      {
+        "word": "agnostic",
+        "definition": "believing that the existence of God cannot be proven or disproven"
+      },
+      {
+        "word": "agriculture",
+        "definition": "farming"
+      },
+      {
+        "word": "aisle",
+        "definition": "a passageway between rows of seats"
+      },
+      {
+        "word": "alacrity",
+        "definition": "eagerness, speed"
+      },
+      {
+        "word": "alias",
+        "definition": "a false name or identity"
+      },
+      {
+        "word": "allay",
+        "definition": "to soothe, ease"
+      },
+      {
+        "word": "alleviate",
+        "definition": "to relieve, make more bearable"
+      },
+      {
+        "word": "allocate",
+        "definition": "to distribute, set aside"
+      },
+      {
+        "word": "aloof",
+        "definition": "reserved, distant"
+      },
+      {
+        "word": "altercation",
+        "definition": "a dispute, fight"
+      },
+      {
+        "word": "amalgamate",
+        "definition": "to bring together, unite"
+      },
+      {
+        "word": "ambiguous",
+        "definition": "uncertain, variably interpretable"
+      },
+      {
+        "word": "ambivalent",
+        "definition": "having opposing feelings"
+      },
+      {
+        "word": "ameliorate",
+        "definition": "to improve"
+      },
+      {
+        "word": "amenable",
+        "definition": "willing, compliant"
+      },
+      {
+        "word": "amenity",
+        "definition": "an item that increases comfort"
+      },
+      {
+        "word": "amiable",
+        "definition": "friendly"
+      },
+      {
+        "word": "amicable",
+        "definition": "friendly"
+      },
+      {
+        "word": "amorous",
+        "definition": "showing love, particularly sexual"
+      },
+      {
+        "word": "amorphous",
+        "definition": "without definite shape or type"
+      },
+      {
+        "word": "anachronistic",
+        "definition": "being out of correct chronological order"
+      },
+      {
+        "word": "analgesic",
+        "definition": "something that reduces pain"
+      },
+      {
+        "word": "analogous",
+        "definition": "similar to, so that an analogy can be drawn"
+      },
+      {
+        "word": "anarchist",
+        "definition": "one who wants to eliminate all government"
+      },
+      {
+        "word": "anathema",
+        "definition": "a cursed, detested person"
+      },
+      {
+        "word": "anecdote",
+        "definition": "a short, humorous account"
+      },
+      {
+        "word": "anesthesia",
+        "definition": "loss of sensation"
+      },
+      {
+        "word": "anguish",
+        "definition": "extreme sadness, torment"
+      },
+      {
+        "word": "animated",
+        "definition": "lively"
+      },
+      {
+        "word": "annex",
+        "definition": "to incorporate territory or space; a room attached to a larger room or space"
+      },
+      {
+        "word": "annul",
+        "definition": "to make void or invalid"
+      },
+      {
+        "word": "anomaly",
+        "definition": "something that does not fit into the normal order"
+      },
+      {
+        "word": "anonymous",
+        "definition": "being unknown, unrecognized"
+      },
+      {
+        "word": "antagonism",
+        "definition": "hostility"
+      },
+      {
+        "word": "antecedent",
+        "definition": "something that came before"
+      },
+      {
+        "word": "antediluvian",
+        "definition": "ancient"
+      },
+      {
+        "word": "anthology",
+        "definition": "a selected collection of writings, songs, etc."
+      },
+      {
+        "word": "antipathy",
+        "definition": "a strong dislike, repugnance"
+      },
+      {
+        "word": "antiquated",
+        "definition": "old, out of date"
+      },
+      {
+        "word": "antiseptic",
+        "definition": "clean, sterile"
+      },
+      {
+        "word": "antithesis",
+        "definition": "the absolute opposite"
+      },
+      {
+        "word": "anxiety",
+        "definition": "intense uneasiness"
+      },
+      {
+        "word": "apathetic",
+        "definition": "lacking concern, emotion"
+      },
+      {
+        "word": "apocryphal",
+        "definition": "fictitious, false, wrong"
+      },
+      {
+        "word": "appalling",
+        "definition": "inspiring shock, horror, disgust"
+      },
+      {
+        "word": "appease",
+        "definition": "to calm, satisfy"
+      },
+      {
+        "word": "appraise",
+        "definition": "to assess the worth or value of"
+      },
+      {
+        "word": "apprehend",
+        "definition": "to seize, arrest; to perceive, understand, grasp"
+      },
+      {
+        "word": "approbation",
+        "definition": "praise"
+      },
+      {
+        "word": "appropriate",
+        "definition": "to take, make use of"
+      },
+      {
+        "word": "aquatic",
+        "definition": "relating to water"
+      },
+      {
+        "word": "arable",
+        "definition": "suitable for growing crops"
+      },
+      {
+        "word": "arbiter",
+        "definition": "one who can resolve a dispute, make a decision"
+      },
+      {
+        "word": "arbitrary",
+        "definition": "based on factors that appear random"
+      },
+      {
+        "word": "arbitration",
+        "definition": "the process or act of resolving a dispute"
+      },
+      {
+        "word": "arboreal",
+        "definition": "of or relating to trees"
+      },
+      {
+        "word": "arcane",
+        "definition": "obscure, secret, known only by a few"
+      },
+      {
+        "word": "archaic",
+        "definition": "of or relating to an earlier period in time, outdated"
+      },
+      {
+        "word": "archetypal",
+        "definition": "the most representative or typical example of something"
+      },
+      {
+        "word": "ardor",
+        "definition": "extreme vigor, energy, enthusiasm"
+      },
+      {
+        "word": "arid",
+        "definition": "excessively dry"
+      },
+      {
+        "word": "arrogate",
+        "definition": "to take without justification"
+      },
+      {
+        "word": "artifact",
+        "definition": "a remaining piece from an extinct culture or place"
+      },
+      {
+        "word": "artisan",
+        "definition": "a craftsman"
+      },
+      {
+        "word": "ascertain",
+        "definition": "to perceive, learn"
+      },
+      {
+        "word": "ascetic",
+        "definition": "practicing restraint as a means of self-discipline, usually religious"
+      },
+      {
+        "word": "ascribe",
+        "definition": "to assign, credit, attribute to"
+      },
+      {
+        "word": "aspersion",
+        "definition": "a curse, expression of ill-will"
+      },
+      {
+        "word": "aspire",
+        "definition": "to long for, aim toward"
+      },
+      {
+        "word": "assail",
+        "definition": "to attack"
+      },
+      {
+        "word": "assess",
+        "definition": "to evaluate"
+      },
+      {
+        "word": "assiduous",
+        "definition": "hard-working, diligent"
+      },
+      {
+        "word": "assuage",
+        "definition": "to ease, pacify"
+      },
+      {
+        "word": "astute",
+        "definition": "very clever, crafty"
+      },
+      {
+        "word": "asylum",
+        "definition": "a place of refuge, protection, a sanctuary; an institution in which the insane are kept"
+      },
+      {
+        "word": "atone",
+        "definition": "to repent, make amends"
+      },
+      {
+        "word": "atrophy",
+        "definition": "to wither away, decay"
+      },
+      {
+        "word": "attain",
+        "definition": "to achieve, arrive at"
+      },
+      {
+        "word": "attribute",
+        "definition": "to credit, assign; a facet or trait"
+      },
+      {
+        "word": "atypical",
+        "definition": "not typical, unusual"
+      },
+      {
+        "word": "audacious",
+        "definition": "excessively bold"
+      },
+      {
+        "word": "audible",
+        "definition": "able to be heard"
+      },
+      {
+        "word": "augment",
+        "definition": "to add to, expand"
+      },
+      {
+        "word": "auspicious",
+        "definition": "favorable, indicative of good things"
+      },
+      {
+        "word": "austere",
+        "definition": "very bare, bleak"
+      },
+      {
+        "word": "avarice",
+        "definition": "excessive greed"
+      },
+      {
+        "word": "avenge",
+        "definition": "to seek revenge"
+      },
+      {
+        "word": "aversion",
+        "definition": "a particular dislike for something"
+      },
+      {
+        "word": "balk",
+        "definition": "to stop, block abruptly"
+      },
+      {
+        "word": "ballad",
+        "definition": "a love song"
+      },
+      {
+        "word": "banal",
+        "definition": "dull, commonplace"
+      },
+      {
+        "word": "bane",
+        "definition": "a burden"
+      },
+      {
+        "word": "bard",
+        "definition": "a poet, often a singer as well"
+      },
+      {
+        "word": "bashful",
+        "definition": "shy, excessively timid"
+      },
+      {
+        "word": "battery",
+        "definition": "a device that supplies power; assault, beating"
+      },
+      {
+        "word": "beguile",
+        "definition": "to trick, deceive"
+      },
+      {
+        "word": "behemoth",
+        "definition": "something of tremendous power or size"
+      },
+      {
+        "word": "benevolent",
+        "definition": "marked by goodness or doing good"
+      },
+      {
+        "word": "benign",
+        "definition": "favorable, not threatening, mild"
+      },
+      {
+        "word": "bequeath",
+        "definition": "to pass on, give"
+      },
+      {
+        "word": "berate",
+        "definition": "to scold vehemently"
+      },
+      {
+        "word": "bereft",
+        "definition": "devoid of, without"
+      },
+      {
+        "word": "beseech",
+        "definition": "to beg, plead, implore"
+      },
+      {
+        "word": "bias",
+        "definition": "a tendency, inclination, prejudice"
+      },
+      {
+        "word": "bilk",
+        "definition": "cheat, defraud"
+      },
+      {
+        "word": "blandish",
+        "definition": "to coax by using flattery"
+      },
+      {
+        "word": "blemish",
+        "definition": "an imperfection, flaw"
+      },
+      {
+        "word": "blight",
+        "definition": "a plague, disease; something that destroys hope"
+      },
+      {
+        "word": "boisterous",
+        "definition": "loud and full of energy"
+      },
+      {
+        "word": "bombastic",
+        "definition": "excessively confident, pompous"
+      },
+      {
+        "word": "boon",
+        "definition": "a gift or blessing"
+      },
+      {
+        "word": "bourgeois",
+        "definition": "a middle-class person, capitalist"
+      },
+      {
+        "word": "brazen",
+        "definition": "excessively bold, brash"
+      },
+      {
+        "word": "brusque",
+        "definition": "short, abrupt, dismissive"
+      },
+      {
+        "word": "buffet",
+        "definition": "to strike with force; an arrangement of food set out on a table"
+      },
+      {
+        "word": "burnish",
+        "definition": "to polish, shine"
+      },
+      {
+        "word": "buttress",
+        "definition": "to support, hold up; something that offers support"
+      },
+      {
+        "word": "cacophony",
+        "definition": "tremendous noise, disharmonious sound"
+      },
+      {
+        "word": "cadence",
+        "definition": "a rhythm, progression of sound"
+      },
+      {
+        "word": "cajole",
+        "definition": "to urge, coax"
+      },
+      {
+        "word": "calamity",
+        "definition": "an event with disastrous consequences"
+      },
+      {
+        "word": "calibrate",
+        "definition": "to set, standardize"
+      },
+      {
+        "word": "callous",
+        "definition": "harsh, cold, unfeeling"
+      },
+      {
+        "word": "calumny",
+        "definition": "an attempt to spoil someone else’s reputation by spreading lies"
+      },
+      {
+        "word": "camaraderie",
+        "definition": "brotherhood, jovial unity"
+      },
+      {
+        "word": "candor",
+        "definition": "honesty, frankness"
+      },
+      {
+        "word": "canny",
+        "definition": "shrewd, careful"
+      },
+      {
+        "word": "canvas",
+        "definition": "a piece of cloth on which an artist paints; to cover, inspect"
+      },
+      {
+        "word": "capacious",
+        "definition": "very spacious"
+      },
+      {
+        "word": "capitulate",
+        "definition": "to surrender"
+      },
+      {
+        "word": "capricious",
+        "definition": "subject to whim, fickle"
+      },
+      {
+        "word": "captivate",
+        "definition": "to get the attention of, hold"
+      },
+      {
+        "word": "carouse",
+        "definition": "to party, celebrate"
+      },
+      {
+        "word": "carp",
+        "definition": "to annoy, pester"
+      },
+      {
+        "word": "catalog",
+        "definition": "to list, enter into a list; a list or collection"
+      },
+      {
+        "word": "catalyze",
+        "definition": "to charge, inspire"
+      },
+      {
+        "word": "caucus",
+        "definition": "a meeting usually held by people working toward the same goal"
+      },
+      {
+        "word": "caustic",
+        "definition": "bitter, biting, acidic"
+      },
+      {
+        "word": "cavort",
+        "definition": "to leap about, behave boisterously"
+      },
+      {
+        "word": "censure",
+        "definition": "harsh criticism; to rebuke formally"
+      },
+      {
+        "word": "cerebral",
+        "definition": "related to the intellect"
+      },
+      {
+        "word": "chaos",
+        "definition": "absolute disorder"
+      },
+      {
+        "word": "chastise",
+        "definition": "to criticize severely"
+      },
+      {
+        "word": "cherish",
+        "definition": "to feel or show affection toward something"
+      },
+      {
+        "word": "chide",
+        "definition": "to voice disapproval"
+      },
+      {
+        "word": "choreography",
+        "definition": "the arrangement of dances"
+      },
+      {
+        "word": "chronicle",
+        "definition": "a written history; to write a history"
+      },
+      {
+        "word": "chronological",
+        "definition": "arranged in order of time"
+      },
+      {
+        "word": "circuitous",
+        "definition": "roundabout"
+      },
+      {
+        "word": "circumlocution",
+        "definition": "indirect and wordy language"
+      },
+      {
+        "word": "circumscribed",
+        "definition": "marked off, bounded"
+      },
+      {
+        "word": "circumspect",
+        "definition": "cautious"
+      },
+      {
+        "word": "circumvent",
+        "definition": "to get around"
+      },
+      {
+        "word": "clairvoyant",
+        "definition": "able to perceive things that normal people cannot"
+      },
+      {
+        "word": "clamor",
+        "definition": "loud noise; to loudly insist"
+      },
+      {
+        "word": "clandestine",
+        "definition": "secret"
+      },
+      {
+        "word": "cleave",
+        "definition": "to divide into parts; to stick together firmly"
+      },
+      {
+        "word": "clemency",
+        "definition": "mercy"
+      },
+      {
+        "word": "clergy",
+        "definition": "members of Christian holy orders"
+      },
+      {
+        "word": "cloying",
+        "definition": "sickeningly sweet"
+      },
+      {
+        "word": "coagulate",
+        "definition": "to thicken, clot"
+      },
+      {
+        "word": "coalesce",
+        "definition": "to fuse into a whole"
+      },
+      {
+        "word": "cobbler",
+        "definition": "a person who makes or repairs shoes"
+      },
+      {
+        "word": "coerce",
+        "definition": "to make somebody do something by force or threat"
+      },
+      {
+        "word": "cogent",
+        "definition": "intellectually convincing"
+      },
+      {
+        "word": "cognizant",
+        "definition": "aware, mindful"
+      },
+      {
+        "word": "coherent",
+        "definition": "logically consistent, intelligible"
+      },
+      {
+        "word": "collateral",
+        "definition": "secondary; security for a debt"
+      },
+      {
+        "word": "colloquial",
+        "definition": "characteristic of informal conversation"
+      },
+      {
+        "word": "collusion",
+        "definition": "secret agreement, conspiracy"
+      },
+      {
+        "word": "colossus",
+        "definition": "a gigantic statue or thing"
+      },
+      {
+        "word": "combustion",
+        "definition": "the act or process of burning"
+      },
+      {
+        "word": "commendation",
+        "definition": "a notice of approval or recognition"
+      },
+      {
+        "word": "commensurate",
+        "definition": "corresponding in size or amount"
+      },
+      {
+        "word": "commodious",
+        "definition": "roomy"
+      },
+      {
+        "word": "compelling",
+        "definition": "forceful, demanding attention"
+      },
+      {
+        "word": "compensate",
+        "definition": "to make an appropriate payment for something"
+      },
+      {
+        "word": "complacency",
+        "definition": "self-satisfied ignorance of danger"
+      },
+      {
+        "word": "complement",
+        "definition": "to complete, make perfect"
+      },
+      {
+        "word": "complicit",
+        "definition": "being an accomplice in a wrongful act"
+      },
+      {
+        "word": "compliment",
+        "definition": "an expression of esteem or approval"
+      },
+      {
+        "word": "compound",
+        "definition": "to combine parts; a combination of different parts"
+      },
+      {
+        "word": "comprehensive",
+        "definition": "including everything"
+      },
+      {
+        "word": "concede",
+        "definition": "to yield, admit"
+      },
+      {
+        "word": "conciliatory",
+        "definition": "friendly, agreeable"
+      },
+      {
+        "word": "concise",
+        "definition": "brief and direct in expression"
+      },
+      {
+        "word": "concoct",
+        "definition": "to fabricate, make up"
+      },
+      {
+        "word": "concomitant",
+        "definition": "accompanying in a subordinate fashion"
+      },
+      {
+        "word": "concord",
+        "definition": "harmonious agreement"
+      },
+      {
+        "word": "condolence",
+        "definition": "an expression of sympathy in sorrow"
+      },
+      {
+        "word": "condone",
+        "definition": "to pardon, deliberately overlook"
+      },
+      {
+        "word": "conduit",
+        "definition": "a pipe or channel through which something passes"
+      },
+      {
+        "word": "confection",
+        "definition": "a sweet, fancy food"
+      },
+      {
+        "word": "confidant",
+        "definition": "a person entrusted with secrets"
+      },
+      {
+        "word": "conflagration",
+        "definition": "great fire"
+      },
+      {
+        "word": "confluence",
+        "definition": "a gathering together"
+      },
+      {
+        "word": "conformist",
+        "definition": "one who behaves the same as others"
+      },
+      {
+        "word": "confound",
+        "definition": "to frustrate, confuse"
+      },
+      {
+        "word": "congeal",
+        "definition": "to thicken into a solid"
+      },
+      {
+        "word": "congenial",
+        "definition": "pleasantly agreeable"
+      },
+      {
+        "word": "congregation",
+        "definition": "a gathering of people, especially for religious services"
+      },
+      {
+        "word": "congruity",
+        "definition": "the quality of being in agreement"
+      },
+      {
+        "word": "connive",
+        "definition": "to plot, scheme"
+      },
+      {
+        "word": "consecrate",
+        "definition": "to dedicate something to a holy purpose"
+      },
+      {
+        "word": "consensus",
+        "definition": "an agreement of opinion"
+      },
+      {
+        "word": "consign",
+        "definition": "to give something over to another’s care"
+      },
+      {
+        "word": "consolation",
+        "definition": "an act of comforting"
+      },
+      {
+        "word": "consonant",
+        "definition": "in harmony"
+      },
+      {
+        "word": "constituent",
+        "definition": "an essential part"
+      },
+      {
+        "word": "constrain",
+        "definition": "to forcibly restrict"
+      },
+      {
+        "word": "construe",
+        "definition": "to interpret"
+      },
+      {
+        "word": "consummate",
+        "definition": "to complete a deal; to complete a marriage ceremony through sexual intercourse"
+      },
+      {
+        "word": "consumption",
+        "definition": "the act of consuming"
+      },
+      {
+        "word": "contemporaneous",
+        "definition": "existing during the same time"
+      },
+      {
+        "word": "contentious",
+        "definition": "having a tendency to quarrel or dispute"
+      },
+      {
+        "word": "contravene",
+        "definition": "to contradict, oppose, violate"
+      },
+      {
+        "word": "contrite",
+        "definition": "penitent, eager to be forgiven"
+      },
+      {
+        "word": "contusion",
+        "definition": "bruise, injury"
+      },
+      {
+        "word": "conundrum",
+        "definition": "puzzle, problem"
+      },
+      {
+        "word": "convene",
+        "definition": "to call together"
+      },
+      {
+        "word": "convention",
+        "definition": "an assembly of people; a rule, custom"
+      },
+      {
+        "word": "convivial",
+        "definition": "characterized by feasting, drinking, merriment"
+      },
+      {
+        "word": "convoluted",
+        "definition": "intricate, complicated"
+      },
+      {
+        "word": "copious",
+        "definition": "profuse, abundant"
+      },
+      {
+        "word": "cordial",
+        "definition": "warm, affectionate"
+      },
+      {
+        "word": "coronation",
+        "definition": "the act of crowning"
+      },
+      {
+        "word": "corpulence",
+        "definition": "extreme fatness"
+      },
+      {
+        "word": "corroborate",
+        "definition": "to support with evidence"
+      },
+      {
+        "word": "corrosive",
+        "definition": "having the tendency to erode or eat away"
+      },
+      {
+        "word": "cosmopolitan",
+        "definition": "sophisticated, worldly"
+      },
+      {
+        "word": "counteract",
+        "definition": "to neutralize, make ineffective"
+      },
+      {
+        "word": "coup",
+        "definition": "a brilliant, unexpected act; the overthrow of a government and assumption of authority"
+      },
+      {
+        "word": "covet",
+        "definition": "to desire enviously"
+      },
+      {
+        "word": "covert",
+        "definition": "secretly engaged in"
+      },
+      {
+        "word": "credulity",
+        "definition": "readiness to believe"
+      },
+      {
+        "word": "crescendo",
+        "definition": "a steady increase in intensity or volume"
+      },
+      {
+        "word": "criteria",
+        "definition": "standards by which something is judged"
+      },
+      {
+        "word": "culmination",
+        "definition": "the climax toward which something progresses"
+      },
+      {
+        "word": "culpable",
+        "definition": "deserving blame"
+      },
+      {
+        "word": "cultivate",
+        "definition": "to nurture, improve, refine"
+      },
+      {
+        "word": "cumulative",
+        "definition": "increasing, building upon itself"
+      },
+      {
+        "word": "cunning",
+        "definition": "sly, clever at being deceitful"
+      },
+      {
+        "word": "cupidity",
+        "definition": "greed, strong desire"
+      },
+      {
+        "word": "cursory",
+        "definition": "brief to the point of being superficial"
+      },
+      {
+        "word": "curt",
+        "definition": "abruptly and rudely short"
+      },
+      {
+        "word": "curtail",
+        "definition": "to lessen, reduce"
+      },
+      {
+        "word": "daunting",
+        "definition": "intimidating, causing one to lose courage"
+      },
+      {
+        "word": "dearth",
+        "definition": "a lack, scarcity"
+      },
+      {
+        "word": "debacle",
+        "definition": "a disastrous failure, disruption"
+      },
+      {
+        "word": "debase",
+        "definition": "to lower the quality or esteem of something"
+      },
+      {
+        "word": "debauch",
+        "definition": "to corrupt by means of sensual pleasures"
+      },
+      {
+        "word": "debunk",
+        "definition": "to expose the falseness of something"
+      },
+      {
+        "word": "decorous",
+        "definition": "socially proper, appropriate"
+      },
+      {
+        "word": "decry",
+        "definition": "to criticize openly"
+      },
+      {
+        "word": "deface",
+        "definition": "to ruin or injure something’s appearance"
+      },
+      {
+        "word": "defamatory",
+        "definition": "harmful toward another’s reputation"
+      },
+      {
+        "word": "defer",
+        "definition": "to postpone something; to yield to another’s wisdom"
+      },
+      {
+        "word": "deferential",
+        "definition": "showing respect for another’s authority"
+      },
+      {
+        "word": "defile",
+        "definition": "to make unclean, impure"
+      },
+      {
+        "word": "defi",
+        "definition": "skillful, capable"
+      },
+      {
+        "word": "defunct",
+        "definition": "no longer used or existing"
+      },
+      {
+        "word": "delegate",
+        "definition": "to hand over responsibility for something"
+      },
+      {
+        "word": "deleterious",
+        "definition": "harmful"
+      },
+      {
+        "word": "deliberate",
+        "definition": "intentional, reflecting careful consideration"
+      },
+      {
+        "word": "delineate",
+        "definition": "to describe, outline, shed light on"
+      },
+      {
+        "word": "demagogue",
+        "definition": "a leader who appeals to a people’s prejudices"
+      },
+      {
+        "word": "demarcation",
+        "definition": "the marking of boundaries or categories"
+      },
+      {
+        "word": "demean",
+        "definition": "to lower the status or stature of something"
+      },
+      {
+        "word": "demure",
+        "definition": "quiet, modest, reserved"
+      },
+      {
+        "word": "denigrate",
+        "definition": "to belittle, diminish the opinion of"
+      },
+      {
+        "word": "denounce",
+        "definition": "to criticize publicly"
+      },
+      {
+        "word": "deplore",
+        "definition": "to feel or express sorrow, disapproval"
+      },
+      {
+        "word": "depravity",
+        "definition": "wickedness"
+      },
+      {
+        "word": "deprecate",
+        "definition": "to belittle, depreciate"
+      },
+      {
+        "word": "derelict",
+        "definition": "abandoned, run-down"
+      },
+      {
+        "word": "deride",
+        "definition": "to laugh at mockingly, scorn"
+      },
+      {
+        "word": "derivative",
+        "definition": "taken directly from a source, unoriginal"
+      },
+      {
+        "word": "desecrate",
+        "definition": "to violate the sacredness of a thing or place"
+      },
+      {
+        "word": "desiccated",
+        "definition": "dried up, dehydrated"
+      },
+      {
+        "word": "desolate",
+        "definition": "deserted, dreary, lifeless"
+      },
+      {
+        "word": "despondent",
+        "definition": "feeling depressed, discouraged, hopeless"
+      },
+      {
+        "word": "despot",
+        "definition": "one who has total power and rules brutally"
+      },
+      {
+        "word": "destitute",
+        "definition": "impoverished, utterly lacking"
+      },
+      {
+        "word": "deter",
+        "definition": "to discourage, prevent from doing"
+      },
+      {
+        "word": "devious",
+        "definition": "not straightforward, deceitful"
+      },
+      {
+        "word": "dialect",
+        "definition": "a variation of a language"
+      },
+      {
+        "word": "diaphanous",
+        "definition": "light, airy, transparent"
+      }
+        
+    ]
+}
